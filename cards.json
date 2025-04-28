@@ -1,0 +1,11 @@
+[
+    {"type": "Traveler", "points": 1, "field": "Desert"},
+    {"type": "Adventurer", "points": 1, "field": "Forest"},
+    {"type": "Sailor", "points": 1, "field": "Water"},
+    {"type": "Traveler", "points": 1, "field": "Desert"},
+    {"type": "Adventurer", "points": 1, "field": "Forest"},
+    {"type": "Sailor", "points": 1, "field": "Water"},
+    {"type": "Traveler", "points": 1, "field": "Desert"},
+    {"type": "Adventurer", "points": 1, "field": "Forest"},
+    {"type": "Sailor", "points": 1, "field": "Water"}
+]

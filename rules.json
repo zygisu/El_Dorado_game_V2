@@ -1,0 +1,13 @@
+[
+    {
+        "1.": "Game objective is to reach the El Dorado tile first.",
+        "2.": "Players take turns playing cards from their hand to move their pieces on the board.",
+        "3.": "The game ends when a player reaches the golden El Dorado tile.",
+        "4.": "Each player have a hand of cards, which are used to move on the board. Forest is used to move on F squares, Desert on D squares and Water on W squares.",
+        "5.": "Numbers near letter indicates how many cards of that type are needed to move on that square.",
+        "6.": "Example: To move on D2, you need 2 Desert cards.",
+        "7.": "Player can move left, right, up or down.",
+        "8.": "Each square can be occupied by one player only.",
+        "9.": "Start square is left blank and cant be occupied."
+    }
+]
